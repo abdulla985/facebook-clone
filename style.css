@@ -1,0 +1,165 @@
+h1{
+
+    color: #007DFF;
+
+    text-align: center;
+
+    font-size: 25px;
+
+}
+
+button {
+
+   background-color: white;
+
+   color: black;
+
+   height: 2.5em;
+
+   width:  80%;
+
+   margin-left: 40px;
+
+   border-radius: 5px;
+
+}
+
+h5{
+
+    color: #007DFF;
+
+    font-size: 5px;
+
+    
+
+}
+
+h6{
+
+    color: #007DFF;
+
+}
+
+#password{
+
+    width: 95%;    
+
+    height: 2pc;
+
+    margin-left: 5px;
+
+    background-color: #F2F3F4;  border-bottom-left-radius:5px;
+
+    border-radius: 5px;
+
+    border-color: white;
+
+    position: relative;
+
+    bottom: 5px;
+
+    
+
+}
+
+#email{
+
+    margin-left: 5px;
+
+    height: 2pc;
+
+    width: 95%;
+
+    margin-right: 500px;
+
+    background-color: #F2F3F4;
+
+    border-radius: 5px;
+
+    border-color: white;
+
+    position: relative;
+
+    bottom: 10px;
+
+}
+
+#ab{
+
+    text-align: center;
+
+    font-size: 15px;
+
+}
+
+#ac{
+
+    height: 2.5em;
+
+    width: 95%;
+
+    margin-left: 8px;
+
+    background-color: #007DFF;
+
+    color: white;
+
+    font: bolder;
+
+    font-size: 15px;
+
+    border-radius: 5px;
+
+}
+
+#al{
+
+    text-align: center;
+
+    color: black;
+
+    font-size: 15px;
+
+}
+
+#la{
+
+    outline: solid;
+
+    outline-width: 3px;
+
+    outline-color: whitesmoke;
+
+    margin-left: 250px;
+
+    position: relative;
+
+    bottom: -15px;
+
+}
+
+#sss{
+
+    text-align: center;
+
+}
+
+#ss{
+
+    margin-left: 240px;
+
+    position: relative;
+
+    bottom: -18px;
+
+}
+
+#sr{
+
+    position: relative;
+
+    bottom: -100px;
+
+    margin-left: 80px;
+
+}
